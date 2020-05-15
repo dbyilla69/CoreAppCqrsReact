@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+## Vscode ignores
+bin
+obj
+.vscode
+.DS_Store
+appsettings.json
+*.db
+
 # User-specific files
 *.rsuser
 *.suo
